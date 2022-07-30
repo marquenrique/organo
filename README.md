@@ -36,8 +36,19 @@
  
  
  ## 🔨 Ferramentas utilizadas
- ### React 
- <img height=60 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+ <div display=inline><br>
+ <h3> React </h3>
+<img align="center" alt="marcos-react" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+ <h3> JavaScript </h3>
+<img align="center" alt="marcos-js" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<h3> HTML </h3>
+<img align="center" alt="marcos-html" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<h3> CSS </h3>
+<img align="center" alt="marcos-css" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</div>
+
+## 📚 Objetivo 
+Projeto de caráter educativo com intenção aprender a manipular a biblioteca 'React' utilizando seus hooks e outras funcionalidades.
 
 
 
