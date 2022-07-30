@@ -19,17 +19,25 @@
  ![Post show](https://github.com/marquenrique/organo/blob/master/public/imgs/imagens/print4.png)
  
  ## 🖱️ Como utilizar
- **Preencha o formulário com os dados do funcionário**
- Obs: No campo "imagem" preencha com o link da sua imagem
- ![Post show](https://github.com/marquenrique/organo/blob/master/public/imgs/imagens/formu.png)
- **Selecione o "time" ao qual seu funcionário pertence e clique no botão 'Criar Card'**
- ![Post show](https://github.com/marquenrique/organo/blob/master/public/imgs/imagens/escolha.png)
- **Pronto! Seu card de funcionário já foi criado agora você pode montar seu organograma**
- ![Post show](https://github.com/marquenrique/organo/blob/master/public/imgs/imagens/card.png)
+ <div>
+ <h4>1- Preencha os dados do formulário</h4>
+ <img src="./public/imgs/imagens/formu.png"/>
+ </div>
+ 
+ <div>
+ <h4>2- Selecione o "time" ao qual pertence o funcionário e clique em "Criar Card"</h4>
+ <img src="./public/imgs/imagens/escolha.png"/>
+ </div>
+ 
+ <div>
+ <h4>3- Pronto! Seu card já foi criado, agora personalize seu organograma como quiser</h4>
+ <img src="./public/imgs/imagens/card.png"/>
+ </div>
+ 
  
  ## 🔨 Ferramentas utilizadas
  ### React 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+ <img height=60 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
 
 
