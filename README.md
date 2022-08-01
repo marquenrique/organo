@@ -48,7 +48,7 @@
 </div>
 
 ## 📚 Objetivo 
-Projeto de caráter educativo com intenção aprender a manipular a biblioteca 'React' utilizando seus hooks e outras funcionalidades.
+Projeto de caráter educativo com intenção de aprender a manipular a biblioteca 'React' utilizando seus hooks e outras funcionalidades.
 
 
 
